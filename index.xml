@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Учу Чудо</title>
-    <link>https://zellius.github.io/uchuchudo/</link>
+    <link>//chudo.land/</link>
     <description>Recent content on Учу Чудо</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="https://zellius.github.io/uchuchudo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//chudo.land/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Привет!</title>
-      <link>https://zellius.github.io/uchuchudo/about/</link>
+      <link>//chudo.land/about/</link>
       <pubDate>Mon, 15 Jun 2020 16:19:02 +0300</pubDate>
       
-      <guid>https://zellius.github.io/uchuchudo/about/</guid>
+      <guid>//chudo.land/about/</guid>
       <description>Меня зовут Екатерина, я дошкольный педагог и педагог раннего развития. За 7 лет работы с детьми у меня накопилось немало опыта, море интересных идей и много полезных, ярких пособий, сделанных своими руками.</description>
     </item>
     
