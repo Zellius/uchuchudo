@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>//chudo.land/</loc>
     <lastmod>2020-06-15T16:19:02+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//chudo.land/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//chudo.land/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//chudo.land/</loc>
   </url>
-  
 </urlset>
